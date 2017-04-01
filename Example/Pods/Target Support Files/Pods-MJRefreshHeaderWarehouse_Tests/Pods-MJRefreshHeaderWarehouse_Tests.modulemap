@@ -1,0 +1,6 @@
+framework module Pods_MJRefreshHeaderWarehouse_Tests {
+  umbrella header "Pods-MJRefreshHeaderWarehouse_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

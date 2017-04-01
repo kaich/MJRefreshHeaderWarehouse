@@ -1,0 +1,19 @@
+PODS:
+  - MJRefresh (2.5.0)
+  - MJRefreshHeaderWarehouse (0.1.0):
+    - MJRefresh (~> 2.3)
+
+DEPENDENCIES:
+  - MJRefreshHeaderWarehouse (from `../`)
+
+EXTERNAL SOURCES:
+  MJRefreshHeaderWarehouse:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJRefresh: 4bce3b592ae052ff89473b2907278bf8a80abdd3
+  MJRefreshHeaderWarehouse: 73dd337a71137b8006e69f60b89f78ab6e734103
+
+PODFILE CHECKSUM: 84c76a2ab4aab8bcc34b2f050b0fdaf83ed900c8
+
+COCOAPODS: 1.2.0
