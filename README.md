@@ -8,7 +8,8 @@
 ## Example
 
 CKCylinderReversibleHeader
-[image](./Screenshot/IMG_0696.PNG)
+
+![image](./Screenshot/IMG_0696.PNG)
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
